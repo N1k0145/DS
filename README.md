@@ -1,3 +1,3 @@
 # DS
 
-Projeto de DS, desenvolvido como foi solicidado, usando a técnica CRUD.
+Projeto desenvolvido para a matéria de DS, usando a técnica CRUD.
